@@ -1,0 +1,201 @@
+
+
+.Games{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-around;
+    margin-top: 50px;
+}
+
+.Game1{
+width: 400px;
+height: 400px;
+background-color: silver;
+border-radius: 20px;
+font-family: 'Brush Script MT', cursive;
+cursor: pointer;
+
+}
+
+.Game1:hover{
+
+    background-color: white;
+    color: black;
+}
+
+
+.game2{
+    width: 400px;
+    height: 400px;
+    background-color: silver;
+    font-family: 'Brush Script MT', cursive;
+    cursor: pointer;
+    border-radius: 20px;
+
+    
+}
+.game2:hover{
+
+    background-color: white;
+    color: black;
+}
+
+.game3{
+    width: 400px;
+    height: 400px;
+    background-color: silver;
+    font-family: 'Brush Script MT', cursive;
+    border-radius: 20px;
+    cursor: pointer;
+
+    
+}
+
+.game3:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.game4{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(184, 179, 179);
+    font-family: 'Brush Script MT', cursive;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+    
+}
+
+.game4:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.game5{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(184, 179, 179);
+    font-family: 'Brush Script MT', cursive;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.game5:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.game6{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(184, 179, 179);
+    font-family: 'Brush Script MT', cursive;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+}
+
+.game6:hover{
+
+    background-color: white;
+    color: black;
+}
+
+img{
+
+    width: 100%;
+    height: 250px;
+}
+.infoGame1{
+
+    text-align: center;
+}
+
+.infoGame2{
+
+    text-align: center;
+}
+
+.faDownload{
+
+    position: relative;
+    color: green;
+    bottom: 20px;
+    left: 180px;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+
+.faDownload:hover{
+
+    color: blue;
+}
+
+.clashDownload{
+
+    position: relative;
+    color: green;
+    bottom: 20px;
+    left: 180px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.infoGame3{
+    text-align: center;
+}
+
+.pubgDownload{
+
+    position: relative;
+    color: green;
+    font-size: 10px;
+    bottom: 20px;
+    left: 180px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.infoGame4{
+
+    text-align: center;
+}
+
+.infoGame5{
+
+    text-align: center;
+}
+
+h1{
+
+    font-family: 'Brush Script MT', cursive;
+}
+
+.more-game{
+
+    margin-top: 50px;
+}
+
+a{
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    color: blueviolet;
+}
+
+
+
+
+

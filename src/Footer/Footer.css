@@ -1,0 +1,41 @@
+.Footer{
+
+width: 100%;
+height: 300px;
+background-color: silver;
+border-radius: 10px;
+
+}
+
+.telegram{
+
+    color: blue;
+}
+
+.insta{
+color: red;
+
+}
+
+.linkdin{
+
+    color: aquamarine;
+}
+
+.whatsapp{
+    color: white;
+}
+
+.git{
+
+    color: blueviolet;
+}
+
+.ul-footer{
+    margin-top: 40px;
+}
+
+p{
+    font-size: 17px;
+    font-family: 'Brush Script MT', cursive;
+}
